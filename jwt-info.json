@@ -1,0 +1,15 @@
+{
+  "header": {
+    "alg": "ES256",
+    "typ": "JWT",
+    "kid": "8ZCM7X2N5B"
+  },
+  "payload": {
+    "iss": "68e7d6b6-c37c-492c-9360-38cd20194684",
+    "iat": 1772005545,
+    "exp": 1772006745,
+    "aud": "appstoreconnect-v1",
+    "bid": "com.test.app"
+  },
+  "signature": "8L1mo6IvmFNcikMqgiqASFOP9G_OFtIxaEiI6BJbjg8BhFdjtJawlvSZmqkVr15uJbEBUmfupSgSD9efRHzmmw"
+}
